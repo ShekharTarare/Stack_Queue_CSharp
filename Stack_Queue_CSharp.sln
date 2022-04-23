@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue Using Array", "Queue 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue Using LinkedList", "Queue Using LinkedList\Queue Using LinkedList.csproj", "{E779E10D-2956-4B6A-9A4E-24B4F7CA1252}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Double Ended Queue Using LinkedList", "Double Ended Queue Using LinkedList\Double Ended Queue Using LinkedList.csproj", "{703E6E78-7FAF-43E0-AE9F-40F224FBB5CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E779E10D-2956-4B6A-9A4E-24B4F7CA1252}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E779E10D-2956-4B6A-9A4E-24B4F7CA1252}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E779E10D-2956-4B6A-9A4E-24B4F7CA1252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{703E6E78-7FAF-43E0-AE9F-40F224FBB5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703E6E78-7FAF-43E0-AE9F-40F224FBB5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703E6E78-7FAF-43E0-AE9F-40F224FBB5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703E6E78-7FAF-43E0-AE9F-40F224FBB5CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
